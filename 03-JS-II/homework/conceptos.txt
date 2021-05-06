@@ -1,0 +1,8 @@
+for: Es una herramienta que permite repetir procesos cuantas veces sea necesario.
+
+&&: Es un operador logico, que evalua dos o mas expresiones, las cuales deben ser verdaderas todas para que se cumpla la condicion.
+
+||: Es un operador logico que evalua si una de las expresiones es verdadera, de tal forma que la condicion se cumple si cualquiera
+    es verdadera.
+
+!: Esta expresion se usa para negar otra expresion, por ejemplo, que se cumpla la condicion de que dos valores no sean iguales.

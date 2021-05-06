@@ -1,0 +1,14 @@
+Variables: Son elementos que sirven para guardar valores de diferentes tipos, para luego ser usados en diferentes procesos.
+
+Strings: Son un tipo de variable, el cual se caracteriza por representarse entre comillas, y equivalen a una cadena de texto.
+
+Funciones(argumentos, return): Las funciones son elementos que se usan para guardar procesos que pueden repetirse durante
+                                la interaccion con el usuario final, lo cual permite ahorrar lineas de codigo. Los argumentos
+                                son datos o variables que seran usados en los procesos presentes en la funcion. return quiere decir 
+                                que la funcion devuelve un valor o una variable de cualquier tipo al terminar los procesos dentro
+                                de la funcion.
+
+Declaraciones if: Estas declaraciones sirven como control de flujo, lo que quiere decir que dependiendo de que una condicion sea
+                    verdadera o falsa, asi mismo se realiza una accion.
+
+Valores booleanos: Estos valores determinan o establecen la veracidad, o la falsedad de algo. Es tambien un tipo de variable.

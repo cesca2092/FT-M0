@@ -1,0 +1,4 @@
+Arrays
+
+Los arrays o arreglos son como armarios, los cuales tienen cajones, que seria el espacio donde se almacenan diferentes tipos de datos.
+Los datos que se almacenan en los cajones pueden ser de cualquier tipi, incluso otros arreglos.

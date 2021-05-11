@@ -1,0 +1,4 @@
+Prototype: es una propiedad de las clases, la cual permite crear funciones (metodos) las cuales seran usadas 
+            cada que el objeto lo requiera.
+
+Constructores: Son las propiedades, caracteristicas o parametros que identifican a una clase, y que seran usadas por los objetos.
